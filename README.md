@@ -1,7 +1,7 @@
 ## A simple multithreading project in C#.
 
 Hre's the code - 
-```c#
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
